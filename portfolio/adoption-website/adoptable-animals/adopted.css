@@ -1,0 +1,15 @@
+body {
+	background-color: lightgrey;
+	background-image: url("../cute-puppy.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-origin: center;
+
+}
+
+.pawprint {
+	height: 60px;
+	border:solid;
+	position: absolute;
+	bottom: 10px
+}

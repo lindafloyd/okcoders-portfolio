@@ -1,0 +1,34 @@
+.logo-nav {
+	height: 30px;
+	width: 30px;
+	border: 3px solid black;
+}
+.brand:hover {
+	background-color: grey;
+}
+.jumbotron {
+	background-image: url("bud.jpg");
+	background-size: cover;
+	background-position: center;
+	background-color: #808080;
+	height: 600px;
+}
+h1 {
+	text-align: center;
+}
+.input-group {
+	padding-top: 20px;
+}
+.doginfo {
+	margin-bottom: 50px;
+	border-bottom: 2px solid lightgrey;
+	padding-bottom: 40px;
+}
+.dogpictures {
+	height: 75px;
+	width: 75px;
+	padding: 10px;
+}
+.dogpictures:hover {
+	transform: scale(4.0);
+}

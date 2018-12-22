@@ -1,0 +1,26 @@
+.logo {
+	width: 200px;
+}
+.loginSubmit {
+	margin-top: 20px;
+	background-color: #f082b5;
+}
+#emailHelp {
+	margin-bottom: 10px;
+}
+.passNotFound {
+	display: none;
+	color: red
+}
+.userNotFound {
+	display: none;
+	color: red
+}
+.loginForm {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}

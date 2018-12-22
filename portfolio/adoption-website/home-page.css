@@ -1,0 +1,51 @@
+.jumbotron {
+	background-image: url("rowofdogs.jpg");
+	background-size: cover;
+	background-position: center;
+	background-color: #808080;
+	height: 600px;
+	margin-bottom: 0px !important;
+}
+.logo-nav {
+	height: 30px;
+	width: 30px;
+	border: 3px solid black;
+}
+.navbar-brand:hover {
+	background-color: grey;
+}
+.dogpic {
+	width: 300px;
+	height: 200px;
+	border-radius: 60%
+}
+.even {
+	background-color: #DCDCDC;
+}
+.odd{
+	background-color: #808080;
+}
+.row {
+	padding: 50px;
+}
+h1 {
+	vertical-align: middle;
+}
+body {
+	background-color: #808080;
+}
+.container-fluid {
+	margin-bottom: -50px;
+	background-color: #808080;
+}
+.contact {
+	border-top-color: #7997a1;
+	border-top-style: solid;
+	border-bottom-color: #7997a1;
+	border-bottom-style: solid;
+	position: fixed;
+	left:0;
+	bottom:0;
+	width: 100%;
+	background-color: lightgrey;
+}
